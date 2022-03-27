@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## * Overview *
 
 ### Links
@@ -49,7 +47,7 @@ A lot of this is practice utilizing concepts I learned from Kevin Powell of Scri
 
 Flexbox makes sense to me as it's being taught during tutorials, but when going out into the coding wild-- Flexbox can give me issues. It can easily be broken with simple css properties (such as the height property). As I work to better myself, I feel that I need to analyze and be very familiar with what situations break flexbox so as not to waste my time or the time of my client/employer with troubleshooting the issue.
 
-I'm aware that I need more practice in building responsive layouts as well. This site could remain completely static. However, I wanted to implement some responsivity into the component I created to play around with responsive units such as em, rem, and %s.
+I'm aware that I need more practice in building responsive layouts as well. This site could remain completely static. However, I wanted to implement some responsivity into the component I created to play around with responsive units such as em, rem, vh, and %s.
 
 I noticed that the Figma design file had text shadow in the H1 tag, but the screenshotted official solution did not. I went ahead and included the text shadow according to the Figma design that I was given.
 
@@ -57,6 +55,7 @@ I noticed that the Figma design file had text shadow in the H1 tag, but the scre
 
 - https://stackoverflow.com/ - Of course, always a great addition in a dev's resource section. I feel that Stack Overflow is the very first website I go to whenever a piece of code is breaking, and I can't figure out why.
 - https://www.w3schools.com/ - I regularly use this website to check my code's syntax. I can learn a concept quickly, but syntax is something that is acquired with usage and experience. Besides playing  creating with code, W3 Schools is great for helping me through that process.
+- https://scrimba.com/ - A great partner to Frontend Mentor. I've been enjoying using both websites to advance my knowledge and refresh rusty skills.
 
 ## Author
 
