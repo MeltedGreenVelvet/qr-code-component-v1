@@ -1,12 +1,12 @@
 /*
------------------
+---------------------------------
 LAYOUT
------------------
+---------------------------------
 */
 
 body {
 	background-color: #d5e1ef;
-    font-size: 1rem;
+	font-size: 1rem;
 	font-family: 'Outfit', sans-serif;
 	text-align: center;
 	margin: 0;
@@ -21,11 +21,11 @@ body {
 }
 
 .container {
-    background-color: #fff;
+    	background-color: #fff;
 	max-width: 320px; 
 	width: 50%;
 	padding: 1em;
-    border-radius: 20px;
+    	border-radius: 20px;
 	box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
 }	
 
@@ -35,44 +35,44 @@ body {
 }
 
 /*
------------------
+---------------------------------
 TYPOGRAPHY
------------------
+---------------------------------
 */
 
 .qr-h1 {
-    color: #1F314F;
+	color: #1F314F;
 	font-size: 1.375rem;
 	font-weight:  700;
-    padding: .3em 1em;
+    	padding: .3em 1em;
 	line-height: 1.3em;
 	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .qr-p {
 	color: #7D889E;
-    font-size: 0.9375em;
+   	font-size: 0.9375em;
 	font-weight: 400;
-    padding: 0 1.6em 1em 1.6em;
+   	padding: 0 1.6em 1em 1.6em;
 	line-height: 1.5em;
-    letter-spacing: 0.1875px;
+    	letter-spacing: 0.1875px;
 }
 
 /*
------------------
-ATTRIBUTION
------------------
+---------------------------------
+FRONTEND MENTOR ATTRIBUTION
+---------------------------------
 */
 
 .attribution { 
-    font-size: 11px; 
-    text-align: center; 
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translate(-50%, 0);
+	font-size: 11px; 
+	text-align: center; 
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	transform: translate(-50%, 0);
 }
 
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+	color: hsl(228, 45%, 44%); 
 }
